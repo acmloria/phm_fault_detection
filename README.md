@@ -5,6 +5,7 @@ This project addresses the fault‐detection problem posed in the HW3 data set o
 ## Data
 
 Three CSV files are provided:
+Linke: https://www.kaggle.com/competitions/hw-3-phm
 
 ## Dataset Files
 
